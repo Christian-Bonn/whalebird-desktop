@@ -166,7 +166,7 @@
     },
     "language": {
       "title": "Sprache",
-      "language_description": "Choose the language you would like to use with Whalebird.",
+      "language_description": "Wähle die Sprache, die Du mit Whalebird verwenden möchtest.",
       "notice": "Erfordert Neustart",
       "confirm": {
         "title": "Warnung",
@@ -206,9 +206,9 @@
       "title": "Listen-Mitgliedschaften"
     },
     "mute_confirm": {
-      "title": "Are you sure to mute?",
-      "body": "Hide notification from this user?",
-      "cancel": "Cancel",
+      "title": "Bist du sicher, dass du auf stumm schalten willst?",
+      "body": "Benachrichtigung vor diesem Benutzer verbergen?",
+      "cancel": "abbrechen",
       "ok": "Mute"
     },
     "shortcut": {
