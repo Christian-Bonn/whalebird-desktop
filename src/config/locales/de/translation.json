@@ -81,14 +81,14 @@
       "toot": {
         "title": "Toot",
         "visibility": {
-          "description": "Customize default visibility of toot.",
+          "description": "Anpassen der Standard-Sichtbarkeit von Toots.",
           "public": "Öffenlich",
           "unlisted": "Nicht gelistet",
           "private": "Privat",
           "direct": "Direkt"
         },
         "sensitive": {
-          "description": "Mark medias as sensitive by default"
+          "description": "Medien standardmäßig als sensibel markieren"
         }
       }
     }
